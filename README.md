@@ -41,13 +41,14 @@ Services are containerized using **Docker**, enabling scalable deployment and in
 
 ## Project Structure
 
+```
 java-enterprise-microservices
 │
 ├── UserController.java
 ├── docker
-│ └── Dockerfile
+│   └── Dockerfile
 └── README.md
-
+```
 
 ---
 
