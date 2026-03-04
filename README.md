@@ -20,3 +20,4 @@ This project demonstrates a scalable enterprise backend system built using Java 
 
 ## Purpose
 This project demonstrates enterprise application development practices used in modern distributed systems.
+Enterprise backend system built using Java Spring Boot.
